@@ -14,8 +14,9 @@ li{
 }
 p {
   text-align: center;
-    font-family: sans-serif;
-    color: #DCDCDC ;
+  font-style: italic;
+  color: #DCDCDC ;
+  font-size: 15px;
 }
 h3:hover {color: #CB000F;}
 p:hover {color: #CB000F;}
