@@ -15,6 +15,7 @@ li{
 p {
   text-align: center;
     font-family: sans-serif;
+    color: #DCDCDC ;
 }
 h3:hover {color: #CB000F;}
 p:hover {color: #CB000F;}
@@ -70,10 +71,6 @@ h3 {
   text-shadow: 1px 1px #696969;
   color: white;
   text-decoration: underline;
-}
-p {
-  font-size: 15px;
-  color: #DCDCDC ;
 }
 .grid-item{
     margin:5px;
