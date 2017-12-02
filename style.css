@@ -22,8 +22,9 @@ h2:hover {color: #CB000F;}
 h1:hover {color: #CB000F;}
 img {
   width:100%;
-
+ transition: all 1s ease-in-out;
 }
+img:hover {transform: scale(1.2);}
 ul {
     padding: 0;
 }
