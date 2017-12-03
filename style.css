@@ -61,7 +61,7 @@ h3 {
 @media (min-width:957px) {
   #grid-floats .grid-item:nth-child(-n+2){
   width: calc(50% - 24px);
-  height: 700px;
+  height: 720px;
   }
   #grid-floats {
 clear: both;
